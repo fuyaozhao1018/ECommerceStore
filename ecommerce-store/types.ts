@@ -25,8 +25,6 @@ export interface Product {
     url: string;
   }
   
-
-  
   export interface Size {
     id: string;
     name: string;
